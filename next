@@ -1,0 +1,3 @@
+function next(){
+ sumerian.SystemBus.emit('next');
+ }
